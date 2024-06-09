@@ -1,0 +1,56 @@
+$primary: #b73b3b;
+
+body{
+    background-color: $primary;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #5f5c5c;
+}
+
+footer {
+    padding: 10px;
+    background-color: #5f5c5c;
+}
+
+.links a {
+    color: red;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.btn-group {
+    margin-right: 0px;
+}
+
+.screen {
+    background-color: #332703;
+    color: white;
+    width: 100%;
+}
+.input-box {
+    width: 100%;
+    height: 160px;
+    font-size: 2rem;
+}
+
+#resultScreen {
+    height: 150px;
+}
+
+#calculateButton{
+    margin: 50px;
+}
+
+.output-column {
+    height: 150px; 
+}
+
+.Contact{
+    margin-left: 5px;
+
+}

@@ -1,0 +1,16 @@
+{
+  "name": "aaysha-midterm-exam",
+  "version": "1.0.0",
+  "description": "Bootstrap Project using npm",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  },
+  "author": "Aaysha Malik",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.4"
+  }
+}
